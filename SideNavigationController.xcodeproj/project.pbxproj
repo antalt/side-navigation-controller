@@ -50,6 +50,7 @@
 		6254FBA17163EABFDEEC29C5 /* Pods_Frameworks_SideNavigationController_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Frameworks_SideNavigationController_tvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		75E26923B13FAD9F3851B41B /* Pods-Tests-SideNavigationControllerTests-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-SideNavigationControllerTests-iOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tests-SideNavigationControllerTests-iOS/Pods-Tests-SideNavigationControllerTests-iOS.debug.xcconfig"; sourceTree = "<group>"; };
 		7726579128038F991ECED9E9 /* Pods-Tests-SideNavigationControllerTests-iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-SideNavigationControllerTests-iOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tests-SideNavigationControllerTests-iOS/Pods-Tests-SideNavigationControllerTests-iOS.release.xcconfig"; sourceTree = "<group>"; };
+		7B1112FA2D347A4700172046 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		A3169DB01DE05E8300BABAFD /* SideNavigationController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SideNavigationController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3169DB91DE05E8300BABAFD /* SideNavigationControllerTests-iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SideNavigationControllerTests-iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3169DCC1DE0629100BABAFD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -127,6 +128,7 @@
 		A3169DA61DE05E8300BABAFD = {
 			isa = PBXGroup;
 			children = (
+				7B1112FA2D347A4700172046 /* Package.swift */,
 				A3169DCA1DE0629100BABAFD /* Sources */,
 				A3169DCF1DE062A000BABAFD /* Tests */,
 				A3169DB11DE05E8300BABAFD /* Products */,
